@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "nodemon":"nodemon src/app.js",
+    "nodemon": "nodemon src/app.js"
 
   },
   "eslintConfig": {
